@@ -98,7 +98,7 @@
                          org.clojars.askonomm/ruuter {:mvn/version "1.2.2"}
                          org.clj-commons/digest {:mvn/version "1.4.100"}
                          hato/hato {:mvn/version "0.8.2"}
-                         better-cond/better-cond {:mvn/version "2.1.1"}
+                         better-cond/better-cond {:mvn/version "2.1.4"}
                          org.clojure/core.specs.alpha {:mvn/version "0.2.62"}
                          reifyhealth/specmonstah {:git/url "https://github.com/reifyhealth/specmonstah", :sha "a2b357009a3aa99a0c2d2361f3bbcd0b0e36505e"}
                          exoscale/coax {:mvn/version "1.0.0-alpha14"}
