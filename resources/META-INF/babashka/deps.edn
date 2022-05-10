@@ -46,7 +46,7 @@
         com.taoensso/timbre {:mvn/version "5.2.1"}
         org.clojure/tools.logging {:mvn/version "1.1.0"}
         org.clojure/data.priority-map {:mvn/version "1.1.0"}
-        insn/insn {:mvn/version "0.5.2"}}
+        insn/insn {:mvn/version "0.5.4"}}
  :aliases {:babashka/dev
            {:main-opts ["-m" "babashka.main"]}
            :profile
