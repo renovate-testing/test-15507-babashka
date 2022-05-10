@@ -143,7 +143,7 @@
                                   org.clojure/spec.alpha nil}}
            :clj-nvd
            {:extra-deps {clj-nvd/clj-nvd {:git/url "https://github.com/miikka/clj-nvd.git"
-                                          :sha "f2ec98699e057a379baf170cb49cf7ad76874a70"}}
+                                          :sha "a6fd635e2f9bc61e786d7182fa68f1e19598e325"}}
             :main-opts ["-m" "clj-nvd.core"]}
            :test
            {:extra-paths ["test"]
