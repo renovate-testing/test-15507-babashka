@@ -116,7 +116,7 @@
                          dev.nubank/docopt {:mvn/version "0.6.1-fix7"}
                          testdoc/testdoc {:mvn/version "1.4.1"}
                          org.clojars.lispyclouds/contajners {:mvn/version "0.0.4"}
-                         borkdude/rewrite-edn {:mvn/version "0.1.0"}
+                         borkdude/rewrite-edn {:mvn/version "0.2.0"}
                          clojure-term-colors/clojure-term-colors {:mvn/version "0.1.0"}
                          io.aviso/pretty {:mvn/version "1.1.1"}
                          progrock/progrock {:mvn/version "0.1.2"}
