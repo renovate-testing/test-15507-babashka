@@ -130,7 +130,7 @@
                          io.lambdaforge/datalog-parser {:mvn/version "0.1.9"}
                          clj-stacktrace/clj-stacktrace {:mvn/version "0.2.8"}
                          clojure-msgpack/clojure-msgpack {:mvn/version "1.2.1"}
-                         cli-matic/cli-matic {:git/url "https://github.com/l3nz/cli-matic.git", :git/sha "9cd53ba7336363e3d06650dbad413b6f8b06e471"}
+                         cli-matic/cli-matic {:git/url "https://github.com/l3nz/cli-matic.git", :git/sha "450da99614d9a6fc5fd72ee34dcc2431c4232c1b"}
                          aysylu/loom {:mvn/version "1.0.2"}
                          com.layerware/hugsql-core {:mvn/version "0.5.3"}
                          com.github.seancorfield/expectations {:mvn/version "2.0.157"}
